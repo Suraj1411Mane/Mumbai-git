@@ -1,0 +1,5 @@
+i set the error faild authentication
+first change setting developer setting change token as classic copy token
+git remote set-url origin <paste url and add token>
+git push -u origin master 
+done 
